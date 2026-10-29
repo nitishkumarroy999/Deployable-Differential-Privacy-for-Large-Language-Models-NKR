@@ -8,7 +8,7 @@ Because the exact MIMIC-III derived set used in the paper cannot be
 redistributed, this script uses a public clinical / biomedical instruction
 dataset (or a synthetic proxy) so that the full pipeline stays runnable.
 
-Author: Nitish Kumar Roy <Nitishkumarrpy526@gmail.com>
+Author: Nitish Kumar Roy 
 """
 
 from __future__ import annotations
