@@ -172,4 +172,4 @@ The author thanks the open-source communities that made real-world private LLM e
 
 ---
 
-**Contact:** Nitish Kumar Roy — Nitishkumarrpy526@gmail.com
+**Contact:** Nitish Kumar Roy — https://nitishkumarroy999.github.io/Nitish-Kumar-Roy-CSE/
