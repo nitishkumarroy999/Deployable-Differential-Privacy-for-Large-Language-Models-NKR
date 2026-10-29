@@ -7,7 +7,7 @@ Implements:
   - Closed-form optimal (C_t*, σ_t*) from the local excess-risk proxy
     derived in the paper (Eq. 5).
 
-Author: Nitish Kumar Roy <Nitishkumarrpy526@gmail.com>
+Author: Nitish Kumar Roy 
 """
 
 from __future__ import annotations
