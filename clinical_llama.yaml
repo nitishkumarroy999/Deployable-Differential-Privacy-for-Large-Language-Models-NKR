@@ -1,0 +1,15 @@
+model_name: meta-llama/Meta-Llama-3-8B
+epsilon: 3.0
+delta: 1.0e-5
+epochs: 3
+batch_size: 4
+grad_accum: 8
+lr: 2.0e-4
+lora_rank: 16
+lora_alpha: 32
+max_length: 256
+max_grad_norm: 1.0
+median_budget_fraction: 0.05
+seed: 42
+output_dir: runs/clinical_llama
+max_train_samples: 2000

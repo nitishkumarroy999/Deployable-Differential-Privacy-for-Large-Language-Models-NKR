@@ -1,0 +1,11 @@
+model_name: distilbert-base-uncased
+epsilon: 3.0
+delta: 1.0e-5
+epochs: 4
+batch_size: 64
+lr: 3.0e-5
+max_length: 128
+max_grad_norm: 1.0
+median_budget_fraction: 0.05
+seed: 42
+output_dir: runs/sentiment_distilbert
