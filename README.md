@@ -1,7 +1,7 @@
 # ACUN: Adaptive Clipping with Utility-Aware Noise for Deployable DP-LLMs
 
 **Author:** Nitish Kumar Roy  
-**Email:** Nitishkumarrpy526@gmail.com  
+**Email:** https://nitishkumarroy999.github.io/Nitish-Kumar-Roy-CSE/ 
 **Paper:** *Deployable Differential Privacy for Large Language Models: Adaptive Gradient Clipping with Formal Utility Guarantees*  
 **Venue:** 5th Workshop on Deployable AI (DAI 2027), AAAI-27, Montreal, Canada
 
