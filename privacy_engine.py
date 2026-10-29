@@ -4,7 +4,7 @@ ACUNPrivacyEngine – thin, Opacus-compatible wrapper.
 This class makes ACUN a near drop-in replacement for
 opacus.PrivacyEngine while adding the adaptive clipping logic.
 
-Author: Nitish Kumar Roy <Nitishkumarrpy526@gmail.com>
+Author: Nitish Kumar Roy
 """
 
 from __future__ import annotations
