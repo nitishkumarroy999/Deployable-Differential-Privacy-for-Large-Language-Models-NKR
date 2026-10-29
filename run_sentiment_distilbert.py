@@ -7,7 +7,7 @@ Reproduces Table 3 of the ACUN paper (Macro-F1 on customer-feedback style data).
 Uses a public sentiment dataset as a fully runnable proxy for the private
 customer-support corpus described in the paper.
 
-Author: Nitish Kumar Roy <Nitishkumarrpy526@gmail.com>
+Author: Nitish Kumar Roy 
 """
 
 from __future__ import annotations
