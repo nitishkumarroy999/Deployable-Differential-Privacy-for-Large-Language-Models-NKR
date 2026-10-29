@@ -4,7 +4,7 @@ Experiment 1 – GPT-2 (124M) fine-tuning on E2E NLG under DP.
 
 Reproduces Table 1 / Figure 1 of the ACUN paper.
 
-Author: Nitish Kumar Roy <Nitishkumarrpy526@gmail.com>
+Author: Nitish Kumar Roy 
 """
 
 from __future__ import annotations
