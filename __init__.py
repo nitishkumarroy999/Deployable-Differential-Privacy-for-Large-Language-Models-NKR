@@ -1,6 +1,6 @@
 """
 ACUN: Adaptive Clipping with Utility-Aware Noise
-Author: Nitish Kumar Roy (Nitishkumarrpy526@gmail.com)
+Author: Nitish Kumar Roy 
 """
 
 from .adaptive_clipping import AdaptiveClipper, private_median_estimate
