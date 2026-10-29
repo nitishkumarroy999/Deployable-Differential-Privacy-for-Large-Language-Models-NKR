@@ -1,6 +1,6 @@
 """
 Utility helpers for ACUN experiments.
-Author: Nitish Kumar Roy <Nitishkumarrpy526@gmail.com>
+Author: Nitish Kumar Roy 
 """
 
 from __future__ import annotations
